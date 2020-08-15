@@ -238,12 +238,14 @@ h6 {
   padding-top: 25px;
   cursor: pointer;
   text-decoration: none;
+  outline:none;
 }
 .main__buttontext {
   margin-left: 14px;
   color: #5671f6;
   font-size: 16px;
   line-height: 19px;
+  outline:none;
 }
 /* FILM DESCRIPTION
 =========================================== */
